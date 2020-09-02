@@ -28,11 +28,11 @@ Application should allow users to delete previously saved notes.
 
 ## Deploying the App
 
- [Note_Taker](https://pratyu-note-taker.herokuapp.com/) 
+ [here is the link for Note_Taker](https://pratyu-note-taker.herokuapp.com/) 
 
  ## Demo
 
- ![Alt text]()
+ ![Alt text](https://github.com/PratyushaRaghupatruni/note-taker/blob/master/public/assets/images/note-taker.gif)
 
 
 
