@@ -22,5 +22,5 @@ const notes = require("../db/db.json");
             }
         }
         return res.send();
-    })
+    });
  }
